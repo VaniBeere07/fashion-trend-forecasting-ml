@@ -1,7 +1,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/fashion-trend-forecasting-ml.git
+git clone https://github.com/<VaniBeere07>/fashion-trend-forecasting-ml.git
 cd fashion-trend-forecasting-ml
 ```
 
@@ -27,4 +27,4 @@ Validation WAPE: 12.60%, MAE: 16.80 units
 * **U.S. Bureau of Labor Statistics**: Consumer Price Index for All Urban Consumers (Apparel Series `CUSR0000SAA`).
 * **Lim, B., et al. (2021)**: *Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting*, International Journal of Forecasting.
 * **Bass, F. M. (1969)**: *A New Product Growth Model for Consumer Durables*, Management Science.
-* 
+  
